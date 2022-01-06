@@ -69,17 +69,15 @@ footer {
   height: 50px;
 }
 
-@media screen and (max-width: 768px){
-  main{
-    width: 100%;
+@media screen and (max-width: 768px) {
+  main {
+    width: 90%;
     display: block;
-    padding: 0 10%;
   }
 
-  .box{
+  .box {
     width: 100%;
     margin-bottom: 20px;
     margin-left: 0;
   }
-
 }
